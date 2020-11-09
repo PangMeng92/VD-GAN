@@ -64,7 +64,9 @@ Choose a trained model (e.g., H1600), and load it in def generateDisguise
 
 
 PEAL_ori_test: input face images (i.e., x)
+
 PEAL_gen_test: generated prototype images (i.e, \widehat{x})
+
 PEAL_pro_test: real prototype images (i.e., x_{rp})
 
 The software is free for academic use, and shall not be used, rewritten, or adapted as the basis of a commercial product without first obtaining permission from the authors. The authors make no representations about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.
