@@ -4,6 +4,7 @@ Variation Disentangling Generative Adversarial Network (VD-GAN)
 
 In this package, we implement our VD-GAN using Pytorch, and train/test our model on CAS-PEAL (disguise) dataset. 
 The PEAL dataset can be downloaded in the link (https://drive.google.com/file/d/1OqAA81yUXbyRIh0c8EJFAnOFbmvBGNMH/view?usp=sharing).
+The trained VD-GAN model can be downloaded in the link (https://drive.google.com/file/d/1IliSX7Ma3D2F47P27eyz8Nlg0k_Q0I5u/view?usp=sharing).
 
 Furthermore, we provide the modelLight.py to present the new network structures of VD-GAN using the LightCNN feature extractor.  
 
