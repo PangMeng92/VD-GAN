@@ -1,8 +1,6 @@
 # VD-GAN
 
-Variation Disentangling Generative Adversarial Network (VD-GAN) 
-
-This work was submitted to IEEE Transactions on Information Forensics and Security (TIFs).
+Variation Disentangling Generative Adversarial Network (VD-GAN). This work was submitted to IEEE Transactions on Information Forensics and Security (TIFs).
 
 
 In this package, we implement our VD-GAN using Pytorch, and train/test the VD-GAN model on CAS-PEAL (disguise) dataset. 
