@@ -2,6 +2,24 @@
 
 VD-GAN: A Unified Framework for Joint Prototype and Representation Learning from Contaminated Single Sample per Person
 
+@article{pang2021vd,
+  title={VD-GAN: A Unified Framework for Joint Prototype and Representation Learning From Contaminated Single Sample per Person},
+  
+  author={Pang, Meng and Wang, Binghui and Cheung, Yiu-ming and Chen, Yiran and Wen, Bihan},
+  
+  journal={IEEE Transactions on Information Forensics and Security},
+  
+  volume={16},
+  
+  pages={2246--2259},
+  
+  year={2021},
+  
+  publisher={IEEE}
+  
+}
+
+
 This work has been published in IEEE Transactions on Information Forensics and Security (TIFs). In this package, we implement our VD-GAN using Pytorch, and train/test the VD-GAN model on CAS-PEAL (disguise) dataset. 
 
 The PEAL dataset can be downloaded in the link (https://drive.google.com/file/d/1OqAA81yUXbyRIh0c8EJFAnOFbmvBGNMH/view?usp=sharing).
