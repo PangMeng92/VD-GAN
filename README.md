@@ -3,6 +3,7 @@
 VD-GAN: A Unified Framework for Joint Prototype and Representation Learning from Contaminated Single Sample per Person
 
 @article{pang2021vd,
+
   title={VD-GAN: A Unified Framework for Joint Prototype and Representation Learning From Contaminated Single Sample per Person},
   
   author={Pang, Meng and Wang, Binghui and Cheung, Yiu-ming and Chen, Yiran and Wen, Bihan},
