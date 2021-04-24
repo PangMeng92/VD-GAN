@@ -3,7 +3,7 @@
 Variation Disentangling Generative Adversarial Network (VD-GAN). 
 
 
-This work was submitted to IEEE Transactions on Information Forensics and Security (TIFs). In this package, we implement our VD-GAN using Pytorch, and train/test the VD-GAN model on CAS-PEAL (disguise) dataset. 
+This work has been published in IEEE Transactions on Information Forensics and Security (TIFs). In this package, we implement our VD-GAN using Pytorch, and train/test the VD-GAN model on CAS-PEAL (disguise) dataset. 
 
 The PEAL dataset can be downloaded in the link (https://drive.google.com/file/d/1OqAA81yUXbyRIh0c8EJFAnOFbmvBGNMH/view?usp=sharing).
 
