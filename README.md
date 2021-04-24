@@ -1,7 +1,6 @@
 # VD-GAN
 
-Variation Disentangling Generative Adversarial Network (VD-GAN). 
-
+VD-GAN: A Unified Framework for Joint Prototype and Representation Learning from Contaminated Single Sample per Person
 
 This work has been published in IEEE Transactions on Information Forensics and Security (TIFs). In this package, we implement our VD-GAN using Pytorch, and train/test the VD-GAN model on CAS-PEAL (disguise) dataset. 
 
